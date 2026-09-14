@@ -33,6 +33,9 @@ img {
 }
 
 aside {
-    grid-column: span 1;
-    
+    grid-column: span 1; 
+}
+
+main {
+    grid-column: span 4;
 }
